@@ -19,11 +19,11 @@ Auto-compaction fixes the size but keeps only the gist. What it loses is what hu
 ## Install
 
 ```text
-/plugin marketplace add <github-user>/self-handoff
+/plugin marketplace add ahmedsanad33-stack/self-handoff
 /plugin install self-handoff@sanad-plugins
 ```
 
-(From a shell: `claude plugin marketplace add <github-user>/self-handoff` then `claude plugin install self-handoff@sanad-plugins`. Needs a recent Claude Code with plugin support.)
+(From a shell: `claude plugin marketplace add ahmedsanad33-stack/self-handoff` then `claude plugin install self-handoff@sanad-plugins`. Needs a recent Claude Code with plugin support.)
 
 ## How it works
 
@@ -98,7 +98,7 @@ MIT, Ahmed Sanad.
 ## التركيب (خطوتين)
 
 ```text
-/plugin marketplace add <github-user>/self-handoff
+/plugin marketplace add ahmedsanad33-stack/self-handoff
 /plugin install self-handoff@sanad-plugins
 ```
 
