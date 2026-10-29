@@ -1,0 +1,10 @@
+{
+  "name": "self-handoff",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude Code plugin: handoff before compaction",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "self-handoff",
+  "displayName": "Self Handoff",
+  "version": "0.1.0",
+  "description": "Write a HANDOFF-self.md before compaction so the session keeps your exact words, rejected ideas and the exact next step.",
+  "author": {
+    "name": "Ahmed Sanad"
+  },
+  "license": "MIT",
+  "keywords": ["handoff", "compaction", "context", "tokens", "hooks"]
+}

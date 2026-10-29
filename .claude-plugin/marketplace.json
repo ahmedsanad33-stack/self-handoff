@@ -1,0 +1,14 @@
+{
+  "name": "sanad-plugins",
+  "description": "Plugins by Ahmed Sanad",
+  "owner": {
+    "name": "Ahmed Sanad"
+  },
+  "plugins": [
+    {
+      "name": "self-handoff",
+      "source": "./",
+      "description": "Write a HANDOFF-self.md before compaction so the session keeps your exact words, rejected ideas and the exact next step."
+    }
+  ]
+}
